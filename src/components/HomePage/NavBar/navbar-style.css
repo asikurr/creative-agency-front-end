@@ -1,0 +1,28 @@
+.login-btn .nav-link{
+    padding: .5rem 2rem!important;
+    background-color:#111430;
+    color: #fff!important;
+    border-radius: 5px;
+}
+.login-btn:hover .nav-link {
+    
+    color: #fff !important;
+    font-weight: bold;
+}
+.logo{
+    height: 50px;
+    width: 150px;
+}
+
+.nav-link{
+    padding: .5rem 1.5rem !important;
+    color: #474747!important;
+    font-size: 14px!important;
+}
+.nav-link:hover {
+    color: #474747!important;
+    font-size: 14px !important;
+    font-weight: bold;
+    border-bottom: 3px;
+
+}

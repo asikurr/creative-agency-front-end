@@ -1,0 +1,36 @@
+.feedback-card{
+    border: 1px solid #BFBFBF;
+    padding: 1rem
+}
+
+.feedbackImg{
+    height: 64px;
+    width: 64px;
+}
+.feedback-heading{
+
+}
+.feedbackTitle{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 30px;
+    color: #000000;
+}
+.feedbackSubTitle{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+.feedbackDescription{
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.005em;
+    color: #707070;
+}
+
+@media only screen and (max-width: 767px) {
+    .feedback-card {
+        margin-bottom: 1rem
+    }
+}

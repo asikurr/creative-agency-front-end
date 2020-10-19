@@ -1,0 +1,16 @@
+.company-logo{
+
+}
+.companyLogo{
+    height: 55px;
+    width: 100px
+}
+@media only screen and (max-width: 767px) {
+   .company-logo {
+       display:flex;
+       flex-wrap: wrap;
+   }
+   .companyLogo{
+       margin: .5rem .5rem;
+   }
+}

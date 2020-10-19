@@ -1,0 +1,39 @@
+.main-content{
+    margin-top: 5rem;
+    max-width: 400px;
+}
+
+
+.main_heading {
+    font-size: 48px;
+    line-height: 50px;
+    letter-spacing: 0.01em;
+    color: #111430;
+    margin-bottom:1.5rem
+}
+.description{
+    margin-bottom:1.5rem
+}
+.main-btn{
+    padding: .5rem 2rem !important;
+    background-color:#111430;
+    color: #fff !important;
+    border-radius: 5px;
+    border: none;
+}
+
+@media only screen and (max-width: 767px) {
+    .main-content {
+        margin-top: 3rem
+    }
+    .main_heading {
+        font-size: 32px;
+        line-height: 36px;
+        letter-spacing: 0.01em;
+        color: #111430;
+        margin-bottom: 1rem
+    }
+    .description {
+        margin-bottom: 1rem
+    }
+}

@@ -1,0 +1,11 @@
+.header-container{
+    clip-path: polygon(0% 0%, 0% 100%, 100% 80%, 100% 0%);
+    background-color: #FBD062;
+    height: 600px;
+}
+
+@media only screen and (max-width: 767px) {
+    .header-container {
+        height: 700px;
+    }
+}
