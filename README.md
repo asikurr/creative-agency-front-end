@@ -1,12 +1,11 @@
-#Creative Agency is a MERN Stack Website
+# Creative Agency is a MERN Stack Website
 
-###Details
+### Details
 A full-stack IT-Service provider web app where anyone
 can order their needed service from the service list and have options
 register and enroll with proper client feedback.
 
-<br />
-###  Languages and Tools :
+### Languages and Tools :
 
 - React JS
 - Node JS
@@ -31,17 +30,14 @@ register and enroll with proper client feedback.
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][]
 
-<br />
-<br />
+
 ### Live Link :  [Click Here](https://creative-agen.web.app/)
 
 <br />
 
 ### Connect with me :
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Portfolio](asikur-portfolio.netlify.app)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](asikur-portfolio.netlify.app)
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://www.linkedin.com/in/asikur-cse/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/asikur-cse/)
 
-
-<br />
